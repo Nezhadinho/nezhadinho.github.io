@@ -30,11 +30,8 @@
   }
 
 
-.page-header {
-  padding: 1.5rem 0;
-
+  // aka line
   .resume-header-aka {
-    text-align: center;      // ← add this
     margin: 0.15rem 0 0.45rem;
     font-size: 0.9rem;
     line-height: 1.2;
@@ -42,7 +39,6 @@
     font-weight: 400;
     opacity: 0.85;
   }
-}
 
   .header-name {
     @include sans;
