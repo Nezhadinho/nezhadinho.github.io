@@ -11,6 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Omid Nezhadbahadori"
+resume_alias:                   "also known as <strong>Nezhadinho</strong>"
 resume_title:                   "Data Scientist and Artificial Intelligentist!"
 
 # used for the contact button in _layouts/resume.html
