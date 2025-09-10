@@ -10,7 +10,7 @@
   role: Advanced Programming Project
   duration: 2019
   # url: ""
-  description: "Built a \n library application in Java with a MySQL database. Advisor: Dr. Masoud Aghdasifam. Tools: Java, JavaFX (GUI), JDBC (MySQL), MySQL, Apache Maven, Git."
+  description: "Built a library application in Java with a MySQL database. Advisor: Dr. Masoud Aghdasifam. Tools: Java, JavaFX (GUI), JDBC (MySQL), MySQL, Apache Maven, Git."
 
 - project: Evolutionary Algorithms
   role: Topics in Computer Science Project
