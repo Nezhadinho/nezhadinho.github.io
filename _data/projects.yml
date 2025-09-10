@@ -1,5 +1,48 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
+- project: Self-Driving Car
+  role: "Bachelor’s Project – Deep Reinforcement Learning"
+  duration: Sep 2021 &mdash; Jul 2022
+  # url: ""
+  description: "Simulated a self-driving car using Deep Reinforcement Learning in Python. Advisor: Dr. Farnaz Mahan. Tools: Python, Kivy, Deep Reinforcement Learning."
+
+- project: Library Application
+  role: Advanced Programming Project
+  duration: 2019
+  # url: ""
+  description: "Built a \n library application in Java with a MySQL database. Advisor: Dr. Masoud Aghdasifam. Tools: Java, JavaFX (GUI), JDBC (MySQL), MySQL, Apache Maven, Git."
+
+- project: Evolutionary Algorithms
+  role: Topics in Computer Science Project
+  duration: 2022
+  # url: ""
+  description: "Implemented an Evolutionary Algorithm for timetable scheduling in Python. Advisor: Dr. Mahsa Ziraksima. Tools: Python, NumPy, DEAP, pandas, Matplotlib, Jupyter, Git."
+
+- project: "CNN on CIFAR-10"
+  role: Computer Graphics Project
+  duration: TBD
+  # url: ""
+  description: "Evaluated classification accuracy of a CNN for the CIFAR-10 dataset. Advisor: Dr. Behzad Pourmahmood."
+
+- project: Basic GAN
+  role: Computer Graphics Project
+  duration: TBD
+  # url: ""
+  description: "Implemented and assessed the fundamentals of a basic GAN model. Advisor: Dr. Behzad Pourmahmood."
+
+- project: Simple Compiler
+  role: Compiler Project
+  duration: TBD
+  # url: ""
+  description: "Built a simple compiler for mathematical formulas, performing tokenization and syntax analysis to construct a parse tree. Advisor: Dr. Shahriar Lotfi."
+
+- project: "16-Bit BUS Computer"
+  role: Computer Architecture Project
+  duration: TBD
+  # url: ""
+  description: "Simulated a 16-bit BUS computer with RAM and necessary registers in Multisim. Advisor: Dr. Javad Hajipour."
+
+
 
 # jazznotes.io
 - project: jazznotes.io
