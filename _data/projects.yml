@@ -5,6 +5,7 @@
   duration: Sep 2021 &mdash; Jul 2022
   # url: ""
   description: "Simulated a self-driving car using Deep Reinforcement Learning in Python. Advisor: Dr. Farnaz Mahan. Tools: Python, Kivy, Deep Reinforcement Learning."
+  string: "this is just a made up section just for fun"
 
 - project: Library Application
   role: Advanced Programming Project
