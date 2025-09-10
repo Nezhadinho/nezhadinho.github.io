@@ -29,6 +29,16 @@
     display: block;
   }
 
+
+  .resume-header-aka {
+  margin: 0.15rem 0 0.45rem;  /* tight under name, a bit above title */
+  font-size: 0.9rem;          /* smaller than the title */
+  line-height: 1.2;
+  color: #6c757d;             /* muted gray */
+  font-weight: 400;           
+  opacity: 0.85;              /* slightly less bright; plays nice on light/dark */
+}
+
   .header-name {
     @include sans;
     font-size: 3rem;
