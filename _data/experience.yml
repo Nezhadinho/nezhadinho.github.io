@@ -1,5 +1,18 @@
 # Jobs
 # VP of Global Communications
+- company: Petrochemical Special Economic Zone (PETZONE)
+  position: Data Scientist Intern – Flare Monitoring & Predictive Analytics
+  duration: Jan 2023 &mdash; Dec 2023
+  summary: I completed a 6-month training phase focused on upstream and downstream oil and gas operations, with emphasis on data structures, sensor types, and typical process flows in petrochemical facilities. Then, I applied and deepen my knowledge by building ML and NN models on time-series sensor logs to predict and classify flow anomalies and improve flare monitoring.
+
+
+
+- company: National Iranian Oil Company (NIOC)
+  position: Data Scientist – AI/NLP Intern - LLM for Technical Report Automation
+  duration: July 2022 &mdash; Dec 2022
+  summary: This internship was particularly about collected and organized internal technical documents and reservoir reports to build a centralized NLP-ready dataset. I designed and implemented scripts to extract and preprocess unstructured data from PDFs and scanned documents using Python, spaCy, and Tesseract OCR. Also, fine-tuned a pre-trained Transformer model on the domain-specific corpus to enhance document classification and summarization performance.
+
+
 - company: Springfield International Human Rights Outreach
   position: VP of Global Communications
   duration: Oct, 2013 &mdash; Present
