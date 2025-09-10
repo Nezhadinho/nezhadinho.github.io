@@ -19,6 +19,11 @@
         <!-- Your name is defined in the _config.yml file -->
         <h1 class="header-name" itemprop="name">{{ site.resume_name }}</h1>
 
+
+        {% if site.resume_alias %}
+        <p class="resume-header-aka">{{ site.resume_alias }}</p>
+        {% endif %}
+
         <!-- To display contact info here, change `display_header_contact_info` value in _config.yml to true -->
         {% if site.display_header_contact_info == 'true' %}
         <div class="header-contact-info">
