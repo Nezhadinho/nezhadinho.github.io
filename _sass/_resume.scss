@@ -32,13 +32,16 @@
 
   // aka line
   .resume-header-aka {
+    display: block;           // make it a full-width block
+    width: 100%;
+    text-align: center;       // ← center the text
     margin: 0.15rem 0 0.45rem;
     font-size: 0.9rem;
     line-height: 1.2;
     color: #6c757d;
     font-weight: 400;
     opacity: 0.85;
-    text-align: center;      // ← add this
+    float: none;              // just in case something floated it
   }
 
   .header-name {
