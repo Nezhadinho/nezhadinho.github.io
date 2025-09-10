@@ -23,7 +23,8 @@ resume_contact_address:         "66133 Im Flurchen 50, Scheidt, Saarland, German
 resume_header_contact_info:     "Saarland, Germany • +49 1573 4838721 • onbahadori@gmail.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: '<p>Yo ,<a href="https://www.youtube.com/watch?v=JJmqCKtJnxM">wazuuuup</a> — I’m Omid,</p>'
+
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
