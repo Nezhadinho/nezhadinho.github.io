@@ -30,13 +30,18 @@
   }
 
 
+.page-header {
+  padding: 1.5rem 0;
+
   .resume-header-aka {
-  margin: 0.15rem 0 0.45rem;  /* tight under name, a bit above title */
-  font-size: 0.9rem;          /* smaller than the title */
-  line-height: 1.2;
-  color: #6c757d;             /* muted gray */
-  font-weight: 400;           
-  opacity: 0.85;              /* slightly less bright; plays nice on light/dark */
+    text-align: center;      // ← add this
+    margin: 0.15rem 0 0.45rem;
+    font-size: 0.9rem;
+    line-height: 1.2;
+    color: #6c757d;
+    font-weight: 400;
+    opacity: 0.85;
+  }
 }
 
   .header-name {
